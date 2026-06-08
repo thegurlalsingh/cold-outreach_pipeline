@@ -1,0 +1,34 @@
+[
+    {
+        "person_id": "aaaa63419f6f8d4bab6c4687",
+        "full_name": "Nekzad Malegamwalla",
+        "linkedin_url": "https://www.linkedin.com/in/nekzad-malegamwalla-aa54185b",
+        "current_job_title": "Director",
+        "company_name": "Cashfree Payments",
+        "email": "nekzad.malegamwalla@cashfree.com"
+    },
+    {
+        "person_id": "aaaa0617f90ca71fcc856ba4",
+        "full_name": "Kamini Mishra",
+        "linkedin_url": "https://www.linkedin.com/in/kamini-mishra996",
+        "current_job_title": "Manager - Growth & Strategy",
+        "company_name": "Cashfree Payments",
+        "email": "kamini.mishra@cashfree.com"
+    },
+    {
+        "person_id": "aaaa9143b6c825f6db7fcba6",
+        "full_name": "Zalikha Zulkifli",
+        "linkedin_url": "https://www.linkedin.com/in/zalikha-zulkifli-294a61128",
+        "current_job_title": "Senior Manager, Risk & Compliance",
+        "company_name": "Razorpay Curlec",
+        "email": "zalikha.zulkifli@curlec.com"
+    },
+    {
+        "person_id": "aaaaa253cf12b38cc6fa0317",
+        "full_name": "Kevin Lee",
+        "linkedin_url": "https://www.linkedin.com/in/kevinzxlee",
+        "current_job_title": "Country Head CEO - Malaysia",
+        "company_name": "Razorpay Curlec",
+        "email": "kevin.lee@curlec.com"
+    }
+]
