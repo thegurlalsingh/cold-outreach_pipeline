@@ -1,4 +1,4 @@
-# Assignment - Cold Outreach Pipeline
+# Cold Outreach Pipeline
 
 A fully automated B2B cold outreach pipeline. One domain in —> lookalike
 companies sourced, decision-makers found, emails resolved, outreach sent.
